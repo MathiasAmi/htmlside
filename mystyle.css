@@ -1,11 +1,12 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     word-wrap: break-word;
+    background-color: khaki;
 }
-.ramme {border: dotted 1px black}
+.ramme {border: solid brown;
+}
 div {
     width: 400px;
-    background-color: white;
 }
 #tabel{
     width: 500px;
