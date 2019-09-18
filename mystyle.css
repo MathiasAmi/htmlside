@@ -77,4 +77,18 @@ button:hover {
     
 }
 
+button, input, label {
+    font-size: 2vw;
+  
+  }
+  
+  
+  input {
+    width: 5vw;
+  }
+  
+  #c {
+    width: 20vw;
+  }
+
 
